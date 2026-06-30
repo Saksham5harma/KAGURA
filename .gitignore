@@ -1,8 +1,6 @@
-reports/
+venv/
+backend/venv/
 __pycache__/
 *.pyc
-*.pyo
-venv/
-.env
-*.log
-.DS_Store
+results/
+reports/
